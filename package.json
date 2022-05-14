@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/crocha12/urlShortener/issues"
   },
-  "homepage": "https://github.com/crocha12/urlShortener#readme"
+  "homepage": "https://github.com/crocha12/urlShortener#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
