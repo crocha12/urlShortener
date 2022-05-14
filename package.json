@@ -19,5 +19,8 @@
   "homepage": "https://github.com/crocha12/urlShortener#readme",
   "dependencies": {
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
   }
 }
